@@ -5,7 +5,7 @@ The R Script for plotting 3D data -- (x,y,z) coordinates -- in the form of a Pla
 
 # By David H. Nguyen, PhD, www.TSG-Lab.org
 
-# Note: This file is best viewed in a plain text reader.
+# Note: This file is best viewed in a plain text reader. Click on the "Raw" button at the upper right corner.
 # Note: I'm developing a statistical method to quantify PGP plots. This is in progress. Once I'm done, 
 # I will add the name of that R script here, so you know what to look for in my GitHub repositories.
 
