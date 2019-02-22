@@ -6,6 +6,9 @@ The R Script for plotting 3D data -- (x,y,z) coordinates -- in the form of a Pla
 # By David H. Nguyen, PhD, www.TSG-Lab.org
 
 # Note: This file is best viewed in a plain text reader.
+# Note: I'm developing a statistical method to quantify PGP plots. This is in progress. Once I'm done, 
+# I will add the name of that R script here, so you know what to look for in my GitHub repositories.
+
 
 # Part A. This script calculates: 
 # 1. r, which is the magnitude of a 3D vector of which we know it's xyz coordinate form the origin 
