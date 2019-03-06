@@ -4,6 +4,8 @@
 # Note: This readme info is best viewed in a plain text reader.
 
 
+# ReadMe Info - Begin
+
 # This script calculates: 
 # 1. r, which is the magnitude of a 3D vector of which we know it's xyz coordinate form the origin 
 # 2. theta, the angle between x-axis and the vectors projection onto x-y plane
@@ -11,23 +13,28 @@
 # ***NOTE: This script assumes that your (x,y,z) coordinates have ALREADY been 
   # centered such that the origin is (0,0,0).***
 
-# 4. This script creates a graph that you need to save onto your computer.
-# 5. This script creates a .csv file called "the PGP data.csv"
+# 4. This script will create a graph image. 
+# 5. This sciprt will create a .csv file called "the PGP data.csv"
 
-# Sample data is included in this folder. The file is called "PGP Calibration Sample Data.csv"
 
        ##### HOW TO FORMAT YOUR DATA FILE TO USE WITH THIS SCRIPT #####
 
-# See the sample file that comes with this script: "Sample Data for PGP.csv"       
+# This GitHub folder contains sample data called "PGP Calibration Sample Data.csv".
+  # This folder also contains what the resulting plot from this data should look like.       
+  # This folder also contains the original 3D image from which the sample data was extracted. 
+         
+              
+# See the sample file that comes with this script: "PGP Calibration Sample Data.csv"       
 # 1. The data file should have AT LEAST three columns. It should be a csv file. 
 # 2. The file must not have any missing entries. The entries should be numbers.
 # 3. Each row should be the x/y/z coordinates for one point. 
 # 4. The column headers for the coordinates MUST be called "xcoord", "ycoord", 
       # and "zcoord" or this script won't work. Just to be safe, the order of the 
       # columns should be like this:
-        # xcoord      ycoord      zcoord    color
-        # -59.0333	  28.9758	    25.689	  Red
-        # -49.2063	  -30.6372	  -27.29    Blue
+       
+        #   xcoord    ycoord      zcoord    color
+        # -59.0333    28.9758	    25.689	  Red
+        # -49.206	    -30.6372	  -27.29    Blue
        
       # Reminder: This script assumes that your (x,y,z) coordinates have ALREADY been 
         # centered such that the origin is (0,0,0).
@@ -38,6 +45,5 @@
        # You should create a FOURTH column (from left) named "color", which defines whether 
        # each row belongs to the Blue group or Red group. 
        
-      
-
-###### End of ReadMe Info
+       
+# ReadMe Info - End    
