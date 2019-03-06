@@ -1,3 +1,5 @@
+# Note: This readme info is best viewed in a plain text reader.
+
 # ReadMe Info:
 
 # The Planarized Globe Plot
