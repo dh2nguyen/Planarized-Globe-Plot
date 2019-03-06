@@ -1,3 +1,7 @@
+# This is v2 of the ReadMe info, dated March 6, 2019.
+# Changes: I edited the script and the sample data in order to make the assumed orientation of the 3D object more clear. See the attached original image and the output PGP graph.
+
+
 # Note: This readme info is best viewed in a plain text reader.
 
 # ReadMe Info:
