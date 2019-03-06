@@ -1,6 +1,5 @@
 # This is v2 of the ReadMe info, dated March 6, 2019.
-# Changes: I edited the script and the sample data in order to make the assumed orientation of the 3D object more clear. See the attached original image and the output PGP graph.
-
+# Changes: I edited the script and the sample data (The file is called "PGP Calibration Sample Data.csv") in order to make the assumed orientation of the 3D object more clear. See the attached original image and the output PGP graph.
 
 # Note: This readme info is best viewed in a plain text reader.
 
@@ -12,6 +11,10 @@
 # ***NOTE: This script assumes that your (x,y,z) coordinates have ALREADY been 
   # centered such that the origin is (0,0,0).***
 
+# 4. This script creates a graph that you need to save onto your computer.
+# 5. This script creates a .csv file called "the PGP data.csv"
+
+# Sample data is included in this folder. The file is called "PGP Calibration Sample Data.csv"
 
        ##### HOW TO FORMAT YOUR DATA FILE TO USE WITH THIS SCRIPT #####
 
@@ -35,6 +38,6 @@
        # You should create a FOURTH column (from left) named "color", which defines whether 
        # each row belongs to the Blue group or Red group. 
        
-       
+      
 
 ###### End of ReadMe Info
