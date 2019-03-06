@@ -33,8 +33,8 @@
       # columns should be like this:
        
         #   xcoord    ycoord      zcoord    color
-        # -59.0333    28.9758	    25.689	  Red
-        # -49.206	    -30.6372	  -27.29    Blue
+        # -59.0333    28.9758     25.689    Red
+        # -49.206     -30.6372    -27.29    Blue
        
       # Reminder: This script assumes that your (x,y,z) coordinates have ALREADY been 
         # centered such that the origin is (0,0,0).
